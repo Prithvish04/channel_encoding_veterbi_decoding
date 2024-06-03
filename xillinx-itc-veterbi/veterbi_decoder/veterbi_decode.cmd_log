@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/veterbi_decoder/veterbi_decode.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/veterbi_decoder/veterbi_decode.syr" 

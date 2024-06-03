@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/xst"
+elaborate
+-ifn v1_decoding.prj
+-ifmt mixed

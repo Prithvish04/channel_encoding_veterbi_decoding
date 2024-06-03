@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="Xst" num="872" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">38</arg>: Unsupported <arg fmt="%s" index="3"></arg> target. 
+</msg>
+
+<msg type="error" file="Xst" num="2634" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">42</arg>: For loop stop condition should depend on loop variable or be static.
+</msg>
+
+<msg type="error" file="Xst" num="2634" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">47</arg>: For loop stop condition should depend on loop variable or be static.
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">96</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">96</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="872" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">0</arg>: Unsupported <arg fmt="%s" index="3"></arg> target. 
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">108</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">108</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="872" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">0</arg>: Unsupported <arg fmt="%s" index="3"></arg> target. 
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">117</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="850" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">117</arg>: Unsupported <arg fmt="%s" index="3">construct</arg>. 
+</msg>
+
+<msg type="error" file="Xst" num="872" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">0</arg>: Unsupported <arg fmt="%s" index="3"></arg> target. 
+</msg>
+
+<msg type="error" file="Xst" num="2634" delta="old" >&quot;<arg fmt="%s" index="1">v1_decoding.v</arg>&quot; line <arg fmt="%d" index="2">128</arg>: For loop stop condition should depend on loop variable or be static.
+</msg>
+
+</messages>
+

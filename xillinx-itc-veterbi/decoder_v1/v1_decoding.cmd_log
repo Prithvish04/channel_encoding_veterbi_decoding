@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.syr" 
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.syr" 
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.syr" 
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.syr" 
+xst -intstyle ise -ifn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.xst" -ofn "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/decoder_v1/v1_decoding.syr" 

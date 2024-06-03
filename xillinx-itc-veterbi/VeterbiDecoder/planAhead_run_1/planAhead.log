@@ -1,0 +1,56 @@
+#-----------------------------------------------------------
+# PlanAhead v14.5 (64-bit)
+# Build 247527 by xbuild on Mon Mar 25 17:13:07 MDT 2013
+# Start of session at: Sat Apr 23 17:31:20 2016
+# Process ID: 12232
+# Log file: C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.5/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/pa.fromNetlist.tcl
+# create_project -name VeterbiDecoder -dir "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/planAhead_run_1" -part xc3s100evq100-5
+# set_property design_mode GateLvl [get_property srcset [current_run -impl]]
+# set_property edif_top_file "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/convolutionale_encoding.ngc" [ get_property srcset [ current_run ] ]
+# add_files -norecurse { {C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder} }
+# set_param project.pinAheadLayout  yes
+# set_property target_constrs_file "convolutionale_encoding.ucf" [current_fileset -constrset]
+Adding file 'C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/convolutionale_encoding.ucf' to fileset 'constrs_1'
+# add_files [list {convolutionale_encoding.ucf}] -fileset [get_property constrset [current_run]]
+# link_design
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+Design is defaulting to project part: xc3s100evq100-5
+Release 14.5 - ngc2edif P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+Reading design convolutionale_encoding.ngc ...
+WARNING:NetListWriters:298 - No output is written to
+   convolutionale_encoding.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+  finished :Prep
+Writing EDIF netlist file convolutionale_encoding.edif ...
+ngc2edif: Total memory usage is 83368 kilobytes
+
+Parsing EDIF File [./planAhead_run_1/VeterbiDecoder.data/cache/convolutionale_encoding_ngc_zx.edif]
+Finished Parsing EDIF File [./planAhead_run_1/VeterbiDecoder.data/cache/convolutionale_encoding_ngc_zx.edif]
+ERROR: [Designutils 20-1353] No cell is specified in file './convolutionale_encoding.ngc'. The design is empty.  This error may be caused by insufficient disk space.
+
+    while executing
+"link_design"
+    (file "C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder/pa.fromNetlist.tcl" line 11)
+exit
+ERROR: [PlanAhead 12-106] *** Exception: ui.h.b: Found deleted key in HTclEventBroker. Verify if the classes listed here call cleanup()
+HTclEvent: DEBUG_CORE_CONFIG_CHANGE   Classes: ui.views.aR 
+HTclEvent: SIGNAL_MODIFY   Classes: ui.views.aR 
+HTclEvent: DEBUG_PORT_CONFIG_CHANGE   Classes: ui.views.aR 
+HTclEvent: SIGNAL_BUS_MODIFY   Classes: ui.views.aR 
+ (See C:/Users/Prithvish/Desktop/xillinx-itc-veterbi/VeterbiDecoder\planAhead_pid12232.debug)
+ERROR: [Common 17-39] 'stop_gui' failed due to earlier errors.
+INFO: [Common 17-206] Exiting PlanAhead at Sat Apr 23 17:32:21 2016...
+INFO: [Common 17-83] Releasing license: PlanAhead
